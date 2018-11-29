@@ -6,5 +6,6 @@
 [4] [model-compression-and-acceleration-4-DNN](https://github.com/mapleam/model-compression-and-acceleration-4-DNN)     
 [5] [NAF-tensorflow](https://github.com/carpedm20/NAF-tensorflow)     
 [6] [TensoRT4-Example](https://github.com/YunYang1994/TensoRT4-Example)      
-[7] [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt)      
+[7] [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt)       
+[8] [PocketFlow](https://github.com/Tencent/PocketFlow)      
 
